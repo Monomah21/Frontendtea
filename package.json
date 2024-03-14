@@ -1,6 +1,6 @@
 {
-  "name": "Frontendtea", 
-  "version": "1.0.0", 
+  "name": "frontendtea",
+  "version": "1.0.1",
   "description": "A lightweight carousel/slider component for displaying images or content in a carousel format",
   "main": "./src/index.js",
   "scripts": {
@@ -8,13 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "" // репозиторий (заполним чуть позже)
+    "url": "https://github.com/Monomah21/Frontendtea.git"
   },
-  "keywords": [ // ключевые слова (необязательно)
-    "", 
-    "",
-    ""
+  "keywords": [
+    "package",
+    "tea",
+    "frontend"
   ],
-  "author": "", // автор (необязательно)
-  "license": "MIT"
+  "author": "oleh",
+  "license": "MIT",
+  "dependencies": {
+    "obteamonomah": "^1.0.0"
+  }
 }
