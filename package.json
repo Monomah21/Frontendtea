@@ -18,6 +18,7 @@
   "author": "oleh",
   "license": "MIT",
   "dependencies": {
+    "frontendtea": "^1.0.1",
     "obteamonomah": "^1.0.0"
   }
 }
